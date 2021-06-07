@@ -1,0 +1,970 @@
+@media (min-width:320px) and (max-width:575.98px){
+    nav .navbar-brand{
+        margin-right: 0;
+    }
+    nav a img{
+        width: 50%;
+    }
+    nav {
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;
+        background: #353535;
+    }
+    nav button i{
+        font-size: 25px;
+        color: #ffffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav ul li{
+        margin-bottom: 10px;
+    }
+    nav ul li a {
+        margin-left: 0;
+    }
+    nav ul li a::after {
+        left: 100px;
+        content: "";
+    }
+    nav ul li a:hover::after {
+        width: 30%;
+    }
+    nav .button:hover {
+        border: 2px solid transparent;
+        background: #744fa0;
+    }
+    /* ============================
+           banner -part
+     ============================ */
+     #banner-part .banner-ultra .slick-dots li {
+        margin-top: 30px;
+        display: inline-block;
+        margin-left: 7px;
+    }
+    #banner-part .banner-ultra ul {
+        top: 89%;
+        right: 30%;
+    }
+    #banner-part .banner-ultra .slick-dots li button::after {
+        top: 48%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3::after {
+        bottom: -25px;
+        right: 40px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3::after {
+        bottom: -25px;
+        right: 40px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3::after {
+        bottom: -25px;
+        right: 40px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+        /* ============================
+           about -part
+     ============================ */
+     #about-part .about-ultra .pep {
+        margin-top: 20px;
+    }
+    #about-part .about-ultra .dip {
+        text-align: center;
+    }
+    #about-part .about-ultra .dip img{
+        width: 95%;
+        margin-top: 20px;
+    }
+     /* ============================
+           feature -part
+     ============================ */
+     #feature-part .feature-ultra .left{
+         display: flex;
+     }
+     #feature-part .feature-ultra .left .print:hover {
+        border-bottom: none;
+        margin-right: 0;
+    }
+    #feature-part .feature-ultra .left a .sequre {
+        display: none;
+    }
+    #feature-part .feature-ultra .left a span {
+        display: none;
+    }
+    #feature-part .feature-ultra .left .print {
+        border-bottom: none;
+    }
+    #feature-part .feature-ultra .left a i {
+        font-size: 42px;
+        top: -51px;
+        left: -12px;
+    }
+    #feature-part .feature-ultra .left .print {
+        padding-left: 55px;
+    }
+    #feature-part .feature-ultra .center img {
+        width: 70%;
+        margin-top: 50px;
+    }
+    #feature-part .feature-ultra .right {
+        text-align: center;
+        margin-top: 55px;
+    }
+    #feature-part .feature-ultra .right p {
+        font-size: 13px;
+        width: auto;
+    }
+    #feature-part .feature-ultra .right .below {
+        margin-top: 20px;
+    }
+    #feature-part .feature-ultra .right h4 {
+        margin-bottom: 20px;
+    }
+    /* ============================
+           ss -part
+     ============================ */
+     #ss-part .ss-ultra .image{
+         text-align: center;
+     }
+     #ss-part .ss-ultra .image img{
+        width: auto;
+     }
+     #ss-part ul li button {
+        width: 15px;
+        height: 15px;
+    }
+    #ss-part ul li {
+        margin-left: 7px;
+    }
+    #ss-part ul {
+        left: 43%;
+    }
+    #ss-part .slick-dots li button::after {
+        width: 7px;
+        height: 7px;
+    }
+        /* ============================
+           team -part
+     ============================ */
+     #team-part .team-ultra .team .image img {
+        width: 108%;
+    }
+    #team-part .team-ultra .team .sil .image .overlay a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+    }
+    /* ============================
+           contact -part
+     ============================ */
+     #testomonial-part .testomonial-ultra .overlay .txt {
+        background: #f1f1f1;
+        text-align: center;
+        padding: 35px 20px;
+        border-radius: 10px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .text p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        color: #353535;
+        font-weight: 400;
+        width: auto;
+        margin: 0 auto;
+        margin-bottom: 0px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .dd {
+        margin-right: 0;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .shape {
+        left: 50%;
+    }
+    #testomonial-part .testomonial-ultra .overlay .sleep {
+	    margin-left: 60px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .image .round {
+        margin: 20px 45px;
+    }
+    #testomonial-part .testomonial-ultra .overlay ul {
+        padding-left: 20px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .slick-dots li button::after {
+        top: 16%;
+    }
+     /* ============================
+           form -part
+     ============================ */
+     #connect-part .connect-ultra input {
+        margin-bottom: 10px;
+    }
+    /* ============================
+           last -part
+     ============================ */
+     footer .footer-ultra ul li a {
+        margin-left: 3px;
+    }
+    footer .footer-ultra p {
+        margin-left: 0px;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+    nav .navbar-brand{
+        margin-right: 0;
+    }
+    nav a img{
+        width: 50%;
+    }
+    nav {
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;
+        background: #353535;
+    }
+    nav button i{
+        font-size: 25px;
+        color: #ffffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav ul li{
+        margin-bottom: 10px;
+    }
+    nav ul li a {
+        margin-left: 0;
+    }
+    nav ul li a::after {
+        left: 208px;
+        content: "";
+    }
+    nav ul li a:hover::after {
+        width: 20%;
+    }
+    nav .button:hover {
+        border: 2px solid transparent;
+        background: #744fa0;
+    }
+    /* ============================
+           banner -part
+     ============================ */
+     #banner-part .banner-ultra .slick-dots li {
+        margin-top: 30px;
+        display: inline-block;
+        margin-left: 7px;
+    }
+    #banner-part .banner-ultra ul {
+        top: 89%;
+        right: 40%;
+    }
+    #banner-part .banner-ultra .slick-dots li button::after {
+        top: 48%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3::after {
+        bottom: -25px;
+        right: 150px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3::after {
+        bottom: -25px;
+        right: 150px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3::after {
+        bottom: -25px;
+        right: 150px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3::after {
+        bottom: -25px;
+        right: 150px;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a .storeg {
+        font-size: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a .storeg {
+        font-size: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a .storeg {
+        font-size: 15px;
+    }
+        /* ============================
+           about -part
+     ============================ */
+     #about-part .about-ultra .pep {
+        margin-top: 20px;
+    }
+    #about-part .about-ultra .dip {
+        text-align: center;
+    }
+    #about-part .about-ultra .dip img{
+        width: 95%;
+        margin-top: 20px;
+    }
+     /* ============================
+           feature -part
+     ============================ */
+     #feature-part .feature-ultra .left{
+         display: flex;
+     }
+     #feature-part .feature-ultra .left .print:hover {
+        border-bottom: none;
+        margin-right: 0;
+    }
+    #feature-part .feature-ultra .left a .sequre {
+        display: none;
+    }
+    #feature-part .feature-ultra .left a span {
+        display: none;
+    }
+    #feature-part .feature-ultra .left .print {
+        border-bottom: none;
+    }
+    #feature-part .feature-ultra .left a i {
+        font-size: 50px;
+        top: -52px;
+        left: -8px;
+    }
+    #feature-part .feature-ultra .left .print {
+        padding-left: 90px;
+    }
+    #feature-part .feature-ultra .center img {
+        width: 65%;
+        margin-top: 40px;
+    }
+    #feature-part .feature-ultra .right {
+        text-align: center;
+        margin-top: 55px;
+    }
+    #feature-part .feature-ultra .right p {
+        font-size: 13px;
+        width: auto;
+    }
+    #feature-part .feature-ultra .right .below {
+        margin-top: 20px;
+    }
+    #feature-part .feature-ultra .right h4 {
+        margin-bottom: 20px;
+    }
+    /* ============================
+           ss -part
+     ============================ */
+     #ss-part .ss-ultra .image{
+         text-align: center;
+     }
+     #ss-part .ss-ultra .image img{
+        width: auto;
+     }
+     #ss-part ul li button {
+        width: 15px;
+        height: 15px;
+    }
+    #ss-part ul li {
+        margin-left: 7px;
+    }
+    #ss-part ul {
+        left: 43%;
+    }
+    #ss-part .slick-dots li button::after {
+        width: 7px;
+        height: 7px;
+    }
+        /* ============================
+           team -part
+     ============================ */
+     #team-part .team-ultra .team .image img {
+        width: 108%;
+    }
+    #team-part .team-ultra .team .sil .image .overlay a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+    }
+    /* ============================
+           contact -part
+     ============================ */
+     #testomonial-part .testomonial-ultra .overlay .txt {
+        background: #f1f1f1;
+        text-align: center;
+        padding: 35px 20px;
+        border-radius: 10px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .text p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        color: #353535;
+        font-weight: 400;
+        width: auto;
+        margin: 0 auto;
+        margin-bottom: 0px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .dd {
+        margin-right: 0;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .shape {
+        left: 50%;
+    }
+    #testomonial-part .testomonial-ultra .overlay .sleep {
+        margin-left: 15px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .image .round {
+        margin: 20px 45px;
+    }
+    #testomonial-part .testomonial-ultra .overlay ul {
+        padding-left: 180px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .slick-dots li button::after {
+        top: 16%;
+    }
+     /* ============================
+           form -part
+     ============================ */
+     #connect-part .connect-ultra input {
+        margin-bottom: 10px;
+    }
+    /* ============================
+           last -part
+     ============================ */
+     footer .footer-ultra ul li a {
+        margin-left: 3px;
+    }
+    footer .footer-ultra p {
+        margin-left: 0px;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    nav .navbar-brand{
+        margin-right: 0;
+    }
+    nav a img{
+        width: 50%;
+    }
+    nav {
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 999;
+        background: #353535;
+    }
+    nav button i{
+        font-size: 25px;
+        color: #ffffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav ul li{
+        margin-bottom: 10px;
+    }
+    nav ul li a {
+        margin-left: 0;
+    }
+    nav ul li a::after {
+        left: 40%;
+        content: "";
+    }
+    nav ul li a:hover::after {
+        width: 20%;
+    }
+    nav .button:hover {
+        border: 2px solid transparent;
+        background: #744fa0;
+    }
+    /* ============================
+           banner -part
+     ============================ */
+     #banner-part .banner-ultra .slick-dots li {
+        margin-top: 30px;
+        display: inline-block;
+        margin-left: 7px;
+    }
+    #banner-part .banner-ultra ul {
+        top: 89%;
+        right: 43%;
+    }
+    #banner-part .banner-ultra .slick-dots li button::after {
+        top: 48%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3::after {
+        bottom: -25px;
+        right: 35%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details h3::after {
+        bottom: -25px;
+        right: 35%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details h3::after {
+        bottom: -25px;
+        right: 35%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details {
+        text-align: center;
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        width: auto;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3 {
+        font-size: 21px;
+        margin-top: 10px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details h3::after {
+        bottom: -25px;
+        right: 35%;
+        content: "";
+    }
+    #banner-part .banner-ultra .banner .overlay .details p {
+        margin-top: 40px;
+    }
+    #banner-part .banner-ultra .banner .overlay {
+        padding: 90px 0;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a {
+        margin-top: 15px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a span {
+        font-size: 13px;
+        margin-right: 32px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a .store {
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    #banner-part .banner-ultra .banner .overlay .details a .storeg {
+        font-size: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner2 .overlay .details a .storeg {
+        font-size: 15px;
+    }
+    #banner-part .banner-ultra .banner-banner3 .overlay .details a .storeg {
+        font-size: 15px;
+    }
+        /* ============================
+           about -part
+     ============================ */
+     #about-part .about-ultra .pep {
+        margin-top: 20px;
+    }
+    #about-part .about-ultra .dip {
+        text-align: center;
+    }
+    #about-part .about-ultra .dip img {
+        width: 95%;
+        margin-top: 85px;
+    }
+     /* ============================
+           feature -part
+     ============================ */
+     #feature-part .feature-ultra .left{
+         display: block;
+     }
+     #feature-part .feature-ultra .left .print:hover {
+        margin-right: 0;
+    }
+    #feature-part .feature-ultra .left a .sequre {
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-top: 0;
+    }
+    #feature-part .feature-ultra .left a span {
+        display: block;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        padding-top: 4px;
+    }
+    #feature-part .feature-ultra .left a i {
+        font-size: 35px;
+        top: 23%;
+        left: -15%;
+    }
+    #feature-part .feature-ultra .left .print {
+        padding-left: 40px;
+    }
+    #feature-part .feature-ultra .center img {
+        width: 120%;
+        margin-top: 28px;
+    }
+    #feature-part .feature-ultra .right {
+        text-align: right;
+        margin-top: 32px;
+    }
+    #feature-part .feature-ultra .right p {
+        font-family: 'Raleway', sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        color: #353535;
+        width: 170px;
+        margin-left: auto;
+        line-height: 25px;
+    }
+    #feature-part .feature-ultra .right .below {
+        margin-top: 10px;
+    }
+    #feature-part .feature-ultra .right h4 {
+        margin-bottom: 20px;
+    }
+    /* ============================
+           ss -part
+     ============================ */
+     #ss-part .ss-ultra .image{
+         text-align: center;
+     }
+     #ss-part .ss-ultra .image img{
+        width: auto;
+     }
+     #ss-part ul li button {
+        width: 15px;
+        height: 15px;
+    }
+    #ss-part ul li {
+        margin-left: 7px;
+    }
+    #ss-part ul {
+        left: 43%;
+    }
+    #ss-part .slick-dots li button::after {
+        width: 7px;
+        height: 7px;
+    }
+        /* ============================
+           team -part
+     ============================ */
+     #team-part .team-ultra .team .image img {
+        width: 108%;
+    }
+    #team-part .team-ultra .team .sil .image .overlay a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 16px;
+    }
+    #team-part .team-ultra .team {
+        margin: 0px 40px;
+        margin-bottom: 100px;
+    }
+    #team-part .team-ultra .team .sil {
+        width: 114%;
+    }
+    /* ============================
+           contact -part
+     ============================ */
+     #testomonial-part .testomonial-ultra .overlay .txt{
+        background: #f1f1f1;
+        text-align: center;
+        padding: 35px 20px;
+        border-radius: 10px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .text p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 13px;
+        color: #353535;
+        font-weight: 400;
+        width: auto;
+        margin: 0 auto;
+        margin-bottom: 0px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .dd {
+        margin-right: 0;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .text {
+        background: #f1f1f1;
+    }
+    #testomonial-part .testomonial-ultra .overlay .txt .shape {
+        left: 50%;
+    }
+    #testomonial-part .testomonial-ultra .overlay .sleep {
+        margin-left: 15px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .image .round {
+        margin: 20px 45px;
+    }
+    #testomonial-part .testomonial-ultra .overlay ul {
+        padding-left: 253px;
+    }
+    #testomonial-part .testomonial-ultra .overlay .slick-dots li button::after {
+        top: 16%;
+    }
+     /* ============================
+           form -part
+     ============================ */
+     #connect-part .connect-ultra input {
+        margin-bottom: 10px;
+    }
+    /* ============================
+           last -part
+     ============================ */
+     footer .footer-ultra ul li a {
+        margin-left: 3px;
+    }
+    footer .footer-ultra p {
+        margin-left: 0px;
+    }
+}
